@@ -10,6 +10,8 @@ import ru.access_control.entities.Attendance;
 import ru.access_control.entities.Employee;
 
 import java.sql.Time;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 import java.util.Scanner;
 
 @Service
@@ -49,8 +51,13 @@ public class CheckPoint {
             }
 
             Attendance attendance = new Attendance();
-            attendance.setEmployee(employee);
-            attendance.setTime(new Time(System.currentTimeMillis()));
+            attendance.seteId(employee.getId());
+            Calendar calendar = new GregorianCalendar();
+            attendance.setTime(new Time(calendar.getTimeInMillis()));
+
+            attendance.setaYear(calendar.get(Calendar.YEAR));
+            attendance.setMonth(calendar.get(Calendar.MONTH));
+            attendance.setDay(calendar.get(Calendar.DAY_OF_MONTH));
 
             logger.info("Written: " + employee.getSurname()+ " " + employee.getName() + " from dep:" + employee.getDepartment().getDepName() + " Time:" + attendance.getTime().toLocalTime().toString());
             attendanceDAO.saveAttendance(attendance);

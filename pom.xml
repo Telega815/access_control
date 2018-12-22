@@ -7,7 +7,10 @@
     <groupId>ru.icerebro</groupId>
     <artifactId>access_control</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>attedance_control</module>
+    </modules>
+    <packaging>pom</packaging>
 
 
 

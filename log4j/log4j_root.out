@@ -1,0 +1,154 @@
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5cdd8682: startup date [Sat Dec 15 16:29:00 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@7f5b9db
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@421bba99] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator  - HHH000397: Using ASTQueryTranslatorFactory
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:16:29:39
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:16:29:50
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Дряев Михаил from dep:Автоматизация Time:16:29:58
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Дряев Михаил from dep:Автоматизация Time:16:30:01
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Гугусик Заур from dep:Автоматизация Time:16:30:05
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Гугусик Заур from dep:Автоматизация Time:16:30:08
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Данилов Олег from dep:Автоматизация Time:16:30:16
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Данилов Олег from dep:Автоматизация Time:16:30:18
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5cdd8682: startup date [Mon Dec 17 14:37:29 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@7f5b9db
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@421bba99] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator  - HHH000397: Using ASTQueryTranslatorFactory
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:14:37:39
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:14:37:43
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@49070868: startup date [Mon Dec 17 14:41:26 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@421def93
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@52de51b6] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator  - HHH000397: Using ASTQueryTranslatorFactory
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Гугусик Заур from dep:Автоматизация Time:14:41:43
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Гугусик Заур from dep:Автоматизация Time:14:42:34
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Гугусик Заур from dep:Автоматизация Time:14:43:19
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32cf48b7: startup date [Mon Dec 17 14:43:58 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.springframework.context.support.ClassPathXmlApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkPoint' defined in file [D:\Prj's\access_control\target\classes\ru\access_control\CheckPoint.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeesDAOImpl' defined in file [D:\Prj's\access_control\target\classes\ru\access_control\dao\impl\EmployeesDAOImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [spring/spring-config.xml]: Invocation of init method failed; nested exception is org.hibernate.boot.MappingNotFoundException: Mapping (RESOURCE) not found : entities/1Attendance.hbm.xml : origin(entities/1Attendance.hbm.xml)
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6cc7b4de: startup date [Mon Dec 17 15:46:56 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.springframework.context.support.ClassPathXmlApplicationContext  - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'checkPoint' defined in file [D:\Prj's\access_control\target\classes\ru\access_control\CheckPoint.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeesDAOImpl' defined in file [D:\Prj's\access_control\target\classes\ru\access_control\dao\impl\EmployeesDAOImpl.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [spring/spring-config.xml]: Invocation of init method failed; nested exception is org.hibernate.boot.MappingNotFoundException: Mapping (RESOURCE) not found : entities/1Attendance.hbm.xml : origin(entities/1Attendance.hbm.xml)
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32cf48b7: startup date [Mon Dec 17 15:47:21 MSK 2018]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@2975a9e
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@6436a7db] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator  - HHH000397: Using ASTQueryTranslatorFactory
+
+[main] INFO  ru.access_control.CheckPoint  - Written: РЇРєСѓР±РѕРІ Р“СѓСЂРіРµРЅ from dep:РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ Time:15:47:35
+
+[main] INFO  ru.access_control.CheckPoint  - Written: РЇРєСѓР±РѕРІ Р“СѓСЂРіРµРЅ from dep:РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ Time:15:47:47

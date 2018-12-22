@@ -10,11 +10,20 @@
             <column name="id" sql-type="bigint"/>
             <generator class="increment"/>
         </id>
+        <property name="eId">
+            <column name="e_id" sql-type="integer" not-null="true"/>
+        </property>
         <property name="time">
             <column name="a_time" sql-type="time"/>
         </property>
-        <many-to-one name="employee" class="ru.access_control.entities.Employee" fetch="join" lazy="false">
-            <column name="e_id" not-null="true"/>
-        </many-to-one>
+        <property name="month">
+            <column name="a_month" sql-type="integer" not-null="true"/>
+        </property>
+        <property name="aYear">
+            <column name="a_year" sql-type="integer" not-null="true"/>
+        </property>
+        <property name="day">
+            <column name="a_day" sql-type="integer" not-null="true"/>
+        </property>
     </class>
 </hibernate-mapping>

@@ -27,7 +27,7 @@ public class AttendanceDAOImpl implements AttendanceDAO {
 
     @Transactional
     public List<Attendance> getAttendance(Employee employee) {
-        return sessionFactory.getCurrentSession().createQuery("from Attendance where employee = :employee").setParameter("employee", employee).list();
+        return sessionFactory.getCurrentSession().createQuery("from Attendance where eId = :employee").setParameter("employee", employee.getId()).list();
     }
 
     @Transactional
