@@ -40,8 +40,8 @@ public class Main {
             }
         }
 
-        System.out.println(url+host + ":" + port + "/" + db);
-        System.out.println(user + "     " + pwd);
+//        System.out.println(url+host + ":" + port + "/" + db);
+//        System.out.println(user + "     " + pwd);
 
         basicDataSource.setUrl(url+host + ":" + port + "/" + db);
         basicDataSource.setUsername(user);

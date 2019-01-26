@@ -152,3 +152,171 @@
 [main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:15:47:35
 
 [main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:Автоматизация Time:15:47:47
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16267862: startup date [Fri Jan 18 14:40:16 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@5f174dd2
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@7e276594] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: null
+
+[main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Cannot create PoolableConnectionFactory (Ошибка при попытке подсоединения.)
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16267862: startup date [Fri Jan 18 14:42:01 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@3d90eeb3
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@7e276594] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: null
+
+[main] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Cannot create PoolableConnectionFactory (Ошибка при попытке подсоединения.)
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16267862: startup date [Fri Jan 18 14:45:22 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@149b0577
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@7e276594] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@16267862: startup date [Fri Jan 18 14:46:45 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@73809e7
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@7e276594] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.hibernate.hql.internal.QueryTranslatorFactoryInitiator  - HHH000397: Using ASTQueryTranslatorFactory
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:автоматизация Time:14:46:59
+
+[main] INFO  ru.access_control.CheckPoint  - Written: Якубов Гурген from dep:автоматизация Time:14:48:56
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@679b62af: startup date [Sat Jan 26 17:12:26 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@765ffb14
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@460ebd80] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@32cf48b7: startup date [Sat Jan 26 17:14:02 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@2975a9e
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@6436a7db] of Hibernate SessionFactory for HibernateTransactionManager
+
+[main] INFO  org.springframework.context.support.ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@679b62af: startup date [Sat Jan 26 17:14:22 MSK 2019]; root of context hierarchy
+
+[main] INFO  org.springframework.beans.factory.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/spring-config.xml]
+
+[main] INFO  org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+[main] INFO  org.hibernate.Version  - HHH000412: Hibernate Core {5.2.13.Final}
+
+[main] INFO  org.hibernate.cfg.Environment  - HHH000206: hibernate.properties not found
+
+[main] INFO  org.hibernate.annotations.common.Version  - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+
+[main] WARN  org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator  - HHH000342: Could not obtain connection to query metadata : Cannot create JDBC driver of class 'org.postgresql.Driver' for connect URL 'null'
+
+[main] INFO  org.hibernate.dialect.Dialect  - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+
+[main] INFO  org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl  - HHH000422: Disabling contextual LOB creation as connection was null
+
+[main] INFO  org.hibernate.type.BasicTypeRegistry  - HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@765ffb14
+
+[main] INFO  org.springframework.orm.hibernate5.HibernateTransactionManager  - Using DataSource [org.apache.commons.dbcp2.BasicDataSource@460ebd80] of Hibernate SessionFactory for HibernateTransactionManager

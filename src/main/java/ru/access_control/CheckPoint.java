@@ -31,6 +31,7 @@ public class CheckPoint {
     }
 
     public void run(){
+        System.out.println("running:");
         while (true){
             String input = scanner.next();
 
@@ -53,7 +54,7 @@ public class CheckPoint {
             Attendance attendance = new Attendance();
             attendance.seteId(employee.getId());
             Calendar calendar = new GregorianCalendar();
-            attendance.setTime(new Time(calendar.getTimeInMillis()));
+            attendance.setTime(new Time(calendar.getTime().getTime()));
 
             attendance.setaYear(calendar.get(Calendar.YEAR));
             attendance.setMonth(calendar.get(Calendar.MONTH));

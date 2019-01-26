@@ -12,6 +12,7 @@
     <!--<property name="connection.url">jdbc:postgresql://localhost:5432/access_control_db</property>-->
     <property name="connection.driver_class">org.postgresql.Driver</property>
     <property name="connection.url">jdbc:postgresql://localhost:5432/access_control_db</property>
+
     <mapping resource="entities/Attendance.hbm.xml"/>
     <mapping resource="entities/Department.hbm.xml"/>
     <mapping resource="entities/Employee.hbm.xml"/>
